@@ -14,6 +14,8 @@
 		F5AE9D6624809E7B005F736A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5AE9D6524809E7B005F736A /* Assets.xcassets */; };
 		F5AE9D6924809E7B005F736A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5AE9D6724809E7B005F736A /* LaunchScreen.storyboard */; };
 		F5AE9D6C24809E7B005F736A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F5AE9D6B24809E7B005F736A /* main.m */; };
+		F5AE9D832480DB32005F736A /* HelloWorldViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5AE9D822480DB32005F736A /* HelloWorldViewController.m */; };
+		F5AE9D862480DB4E005F736A /* HelloWorldTwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5AE9D852480DB4E005F736A /* HelloWorldTwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,10 @@
 		F5AE9D6824809E7B005F736A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5AE9D6A24809E7B005F736A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F5AE9D6B24809E7B005F736A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F5AE9D812480DB32005F736A /* HelloWorldViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldViewController.h; sourceTree = "<group>"; };
+		F5AE9D822480DB32005F736A /* HelloWorldViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldViewController.m; sourceTree = "<group>"; };
+		F5AE9D842480DB4E005F736A /* HelloWorldTwoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldTwoViewController.h; sourceTree = "<group>"; };
+		F5AE9D852480DB4E005F736A /* HelloWorldTwoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldTwoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +78,10 @@
 				F5AE9D6724809E7B005F736A /* LaunchScreen.storyboard */,
 				F5AE9D6A24809E7B005F736A /* Info.plist */,
 				F5AE9D6B24809E7B005F736A /* main.m */,
+				F5AE9D812480DB32005F736A /* HelloWorldViewController.h */,
+				F5AE9D822480DB32005F736A /* HelloWorldViewController.m */,
+				F5AE9D842480DB4E005F736A /* HelloWorldTwoViewController.h */,
+				F5AE9D852480DB4E005F736A /* HelloWorldTwoViewController.m */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -148,6 +158,8 @@
 			files = (
 				F5AE9D6124809E77005F736A /* ViewController.m in Sources */,
 				F5AE9D5B24809E77005F736A /* AppDelegate.m in Sources */,
+				F5AE9D832480DB32005F736A /* HelloWorldViewController.m in Sources */,
+				F5AE9D862480DB4E005F736A /* HelloWorldTwoViewController.m in Sources */,
 				F5AE9D6C24809E7B005F736A /* main.m in Sources */,
 				F5AE9D5E24809E77005F736A /* SceneDelegate.m in Sources */,
 			);
