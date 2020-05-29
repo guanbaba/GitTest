@@ -67,6 +67,7 @@
 		F5AE9D5824809E77005F736A /* GitTest */ = {
 			isa = PBXGroup;
 			children = (
+				F5AE9D872480DBAB005F736A /* TestFolder */,
 				F5AE9D5924809E77005F736A /* AppDelegate.h */,
 				F5AE9D5A24809E77005F736A /* AppDelegate.m */,
 				F5AE9D5C24809E77005F736A /* SceneDelegate.h */,
@@ -78,12 +79,19 @@
 				F5AE9D6724809E7B005F736A /* LaunchScreen.storyboard */,
 				F5AE9D6A24809E7B005F736A /* Info.plist */,
 				F5AE9D6B24809E7B005F736A /* main.m */,
+			);
+			path = GitTest;
+			sourceTree = "<group>";
+		};
+		F5AE9D872480DBAB005F736A /* TestFolder */ = {
+			isa = PBXGroup;
+			children = (
 				F5AE9D812480DB32005F736A /* HelloWorldViewController.h */,
 				F5AE9D822480DB32005F736A /* HelloWorldViewController.m */,
 				F5AE9D842480DB4E005F736A /* HelloWorldTwoViewController.h */,
 				F5AE9D852480DB4E005F736A /* HelloWorldTwoViewController.m */,
 			);
-			path = GitTest;
+			path = TestFolder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
